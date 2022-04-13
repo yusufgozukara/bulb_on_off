@@ -2,4 +2,4 @@
 
 Please click the image!
 
-![Image](https://yusufgozukara.github.io/bulb_on_off/)
+![https://github.com/yusufgozukara/bulb_on_off/blob/master/bulb_presentation.jpg](https://yusufgozukara.github.io/bulb_on_off/)
